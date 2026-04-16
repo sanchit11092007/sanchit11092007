@@ -1,54 +1,68 @@
-# Hi, I’m Sanchit Goyal
+# Hi, I'm Sanchit Goyal
 
-Computer Science Engineering undergraduate with a focused interest in **Data Science, Artificial Intelligence, and Machine Learning**.  
-I am building strong fundamentals in statistics, data analysis, and problem solving, with a long-term goal of developing reliable and well-reasoned AI systems.
+Computer Science Engineering undergraduate specializing in **Data Science, Artificial Intelligence, and Machine Learning**.
 
----
-
-## Current Focus
-
-- Statistics and probability for data science  
-- Data cleaning and exploratory data analysis using Python  
-- Core machine learning concepts from first principles  
-- Strengthening problem-solving skills with Data Structures & Algorithms  
-
-I prioritize clarity of thought, reproducibility, and clean code over rushed implementation.
+I am focused on building strong foundations in statistics, data analysis, and algorithmic thinking, with the long-term goal of developing reliable, interpretable, and scalable AI systems.
 
 ---
 
-## Featured Work
+## What I'm Working On
 
-Here are a few selected repositories that reflect my current learning and applied work:
+- Strengthening mathematical foundations (statistics & probability for data science)
+- Data analysis and preprocessing using Python
+- Understanding machine learning algorithms from first principles
+- Improving problem-solving through Data Structures & Algorithms
 
-- **Pure-Python Data Cleaning & Recommendation Engine**  
-  Focused on preprocessing, data quality, and basic recommendation logic.
+My approach is deliberate — I focus on depth of understanding, not just implementation.
+
+---
+
+## Selected Projects
+
+A few repositories that represent my current work and learning direction:
+
+- **Pure Python Data Cleaning & Recommendation Engine**  
+  Designed preprocessing pipelines and implemented basic recommendation logic without relying on heavy frameworks.
 
 - **Credit Banking Analysis**  
-  Exploratory analysis of structured financial data with insights and observations.
+  Performed exploratory data analysis on financial datasets to extract patterns, trends, and actionable insights.
 
-- **Personal Portfolio**  
-  A clean, structured portfolio website presenting my projects, skills, and learning progress.
+- **Personal Portfolio Website**  
+  Built a structured and minimal portfolio to showcase projects and track learning progress.
 
-(Additional projects are added as my skills and understanding deepen.)
-
----
-
-## Technical Stack
-
-- **Languages:** Python, JavaScript  
-- **Data & Analysis:** NumPy, Pandas, Matplotlib  
-- **Web Basics:** HTML, CSS  
-- **Tools:** Git, GitHub  
+More projects will reflect increasing complexity as I continue to grow.
 
 ---
 
-## Learning Philosophy
+## Technical Skills
 
-I believe in building from fundamentals rather than relying on black-box tools.  
-My approach emphasizes:
-- Understanding *why* a method works  
-- Writing readable and maintainable code  
-- Gradual progression from analysis to modeling  
+**Languages**  
+- Python  
+- JavaScript  
+
+**Data & Analysis**  
+- NumPy  
+- Pandas  
+- Matplotlib  
+
+**Web Fundamentals**  
+- HTML  
+- CSS  
+
+**Tools & Workflow**  
+- Git  
+- GitHub  
+
+---
+
+## Approach to Learning
+
+I prefer understanding systems at a fundamental level rather than treating them as black boxes.
+
+- Focus on *why* things work, not just *how*
+- Write clean, readable, and maintainable code
+- Build incrementally — from data understanding to model development
+- Prioritize reproducibility and clarity in every project
 
 ---
 
@@ -59,4 +73,6 @@ My approach emphasizes:
 
 ---
 
-*This profile evolves as I continue learning and building.*
+## Note
+
+This profile is a work in progress — each project reflects a step forward in my understanding of data and intelligent systems.
