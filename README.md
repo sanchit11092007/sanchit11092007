@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:58A6FF&height=220&section=header&text=Sanchit%20Goyal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Systems%20Thinker&descAlignY=55&descSize=18" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:58A6FF&height=220&section=header&text=Sanchit%20Goyal&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%7C%20AI%2FML%20%7C%20Generative%20AI&descAlignY=55&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+LPU+(Data+Science+%26+AI%2FML);Building+an+LLM+Routing+System+for+SIH;500%2B+DSA+Problems+in+Java+(Striver's+A2Z);Learning+Everything+From+First+Principles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=B.Tech+CSE+%40+LPU+(CGPA+9.0);Exploratory+Data+Analysis+%26+Statistics;Building+with+Generative+AI+%2F+LLMs;Learning+Everything+From+First+Principles" alt="Typing SVG" />
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://sanchit11092007.github.io/personal-portfolio)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanchit11092007)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/the-sanchit-goyal)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact.sanchitgoyal@gmail.com)
 
 </div>
 
@@ -16,44 +17,60 @@
 
 ## 🧭 About Me
 
-I'm a CSE undergraduate at **Lovely Professional University**, specializing in **Data Science, AI, and Machine Learning** (Batch 2025–2029). I care more about understanding *why* something works than shipping something that just happens to run.
+I'm a CSE undergraduate at **Lovely Professional University** (CGPA: 9.0), specializing in **Data Science and AI/ML**. My work leans toward exploratory data analysis, statistical reasoning, and applied generative AI.
 
 ```python
 class Sanchit:
     def __init__(self):
         self.role = "CSE Undergrad — Data Science & AI/ML"
         self.university = "Lovely Professional University"
-        self.currently_learning = ["Machine Learning foundations", "System design basics", "Advanced DSA"]
+        self.languages = ["C++", "Python", "Java", "R"]
+        self.interests = ["EDA", "Statistical Analysis", "Generative AI", "LLM Foundations"]
         self.philosophy = "Depth over speed. Understand it, don't just implement it."
 
     def get_current_focus(self):
-        return "Building an LLM routing system + grinding Striver's A2Z sheet"
+        return "Data analysis, ML foundations, and applied Generative AI projects"
 ```
 
 ---
 
-## 🚀 What I'm Actively Building
+## 🚀 Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔀 Local LLM Router (SIH Project)
-A backend system that routes requests across multiple **local LLMs** served through **Ollama**, built for the Smart India Hackathon.
+### 💳 Credit Banking Customer Analysis
+*Python · Pandas · Matplotlib · Seaborn*
 
-- **Stack:** FastAPI + a rule-based router (`router.py`) deciding which model handles a request
-- **Model:** running on **Qwen2.5**
-- Designed to work across machines from a clean setup — fresh venv, Ollama install, and model pulls, no assumed environment
+End-to-end EDA on banking customer data to surface behavioral and financial patterns.
+
+- Insights relevant to **credit risk assessment** and **customer segmentation**
+- Built visual dashboards and statistical summaries covering demographics, credit utilization, and repayment behavior
 
 </td>
 <td width="50%" valign="top">
 
-### 📚 DSA in Java — Striver's A2Z
-A structured, from-scratch DSA repository following **Striver's A2Z Sheet**, paired with handwritten notes.
+### 🧹 Pure Python Data Cleaning & Recommendation Engine
+*Python — zero external dependencies*
 
-- ✅ Arrays (40 problems), Sorting, Hashing, Recursion — done
-- 🔄 Currently: **Stacks & Queues** (Infix/Postfix/Prefix conversions)
-- Every file: Javadoc header (Problem, Difficulty, Pattern, Approach, TC/SC) + a brute → better → optimal structure with dry runs
+A rule-based engine that inspects a dataset and recommends targeted cleaning strategies.
+
+- Detects missing values, outliers, and duplicates
+- Automates dataset quality assessment and generates actionable preprocessing recommendations
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" colspan="2">
+
+### 🤖 Portfolio Intelligence Assistant
+*Google Gemini API · JavaScript*
+
+A browser-based conversational AI assistant embedded directly in my portfolio — no backend server required.
+
+- Implements **conversation memory** and markdown-rendered responses with code syntax highlighting
+- Answers questions across portfolio context, general programming, data science, and career guidance
 
 </td>
 </tr>
@@ -65,7 +82,7 @@ A structured, from-scratch DSA repository following **Striver's A2Z Sheet**, pai
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css,git,github,vscode,fastapi,numpy,pandas&theme=dark" />
+<img src="https://skillicons.dev/icons?i=cpp,python,java,r,git,github,jupyter,vscode,js&theme=dark" />
 
 </div>
 
@@ -74,36 +91,44 @@ A structured, from-scratch DSA repository following **Striver's A2Z Sheet**, pai
 <br/>
 
 **Languages**  
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-**Data & ML**  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+**Data Science**  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white)
 
-**Backend & Infra**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+**Machine Learning / AI**  
+![Generative AI](https://img.shields.io/badge/Generative%20AI-8A2BE2?style=flat-square&logo=openai&logoColor=white)
+![Gemini API](https://img.shields.io/badge/Gemini%20API-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 
-**Tools**  
+**Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 
 </details>
 
 ---
 
-## 🧠 How I Approach Learning
+## 🎓 Certifications
 
-| Principle | What it means for me |
-|---|---|
-| 🔍 Depth over speed | I trace *why* an algorithm works before I trust myself to use it |
-| 🧱 Brute → Better → Optimal | Every DSA problem gets solved the honest way first, then improved |
-| 🧹 Clean, documented code | Every file gets a header explaining pattern, approach, and complexity |
-| 🔁 Reproducibility | If someone else opens my repo cold, they should be able to follow it |
+- Introduction to Generative AI — **Google Cloud** (Jun '26)
+- AI for Research & Insights — **Google** (Jul '26)
+- Introduction to Data Analysis — **Meta** (Aug '26)
+- Power BI for Business Intelligence — **upGrad** (Mar '26)
+
+---
+
+## 🎓 Education
+
+**Lovely Professional University** — B.Tech, Computer Science and Engineering — CGPA: 9.0 *(Aug '25 – Present)*  
+
 
 ---
 
@@ -118,10 +143,6 @@ A structured, from-scratch DSA repository following **Striver's A2Z Sheet**, pai
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchit11092007&theme=tokyonight&hide_border=true" />
 
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanchit11092007&theme=tokyo-night&hide_border=true" />
-
 </div>
 
 ---
@@ -132,12 +153,13 @@ A structured, from-scratch DSA repository following **Striver's A2Z Sheet**, pai
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://sanchit11092007.github.io/personal-portfolio)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/sanchit11092007)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/the-sanchit-goyal)
 
 </div>
 
 <div align="center">
 
-*Every commit here is a step toward actually understanding data and intelligent systems — not just showing that I can copy-paste them.*
+*Every project here is a step toward actually understanding data and intelligent systems.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sanchit11092007&color=58A6FF&style=flat-square&label=Profile+Views)
 
